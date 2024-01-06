@@ -24,3 +24,4 @@ color_hex = '#cce6ff'  # Replace with the color you are looking for in hexadecim
 result = get_colored_rows(pdf_path, color_hex)
 
 print(result)
+ 
